@@ -13,7 +13,7 @@ export const TransactionsTable = styled.div`
   width: 100%;
   border-radius: separate;
   border-spacing: 0 0.5rem;
-  /* margin-top: 1.5rem; */
+  margin-top: 1.5rem;
 
   td {
     padding: 1.25rem 2rem;
